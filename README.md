@@ -3,3 +3,5 @@
 - 🤔 I’m looking for help with htmx...
 
 [https://x.com/htmx_org](https://x.com/htmx_org)
+------
+htmx is too damn hard, back to next.js
